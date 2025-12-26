@@ -2,3 +2,5 @@
 COMPANY : CODE IT SOLUTION NAME : RANJITH INTERN ID : CTISO0758 DOMAIN : JAVA PROGRAMMING DURATION : 4 WEEKS
 
 OUTPUT 4:
+
+<img width="707" height="413" alt="Image" src="https://github.com/user-attachments/assets/678ae066-ccca-4792-9308-09353e6daa0b" />
